@@ -1,8 +1,10 @@
 # S.i.R.I. - Schoology iOS Reminders Integration
 <p align="center"><img src="http://i.imgur.com/csdR86p.png?1" /></p>
-A simple script that fetches your schoology events and upcoming assignments and adds them to ios reminders with a alarms and short link
+A simple script that fetches your schoology events and upcoming assignments and adds them to ios reminders with a alarms and short link.
+
 ## Setup
-#### 🚨 I'm waiting on a PR from [here](https://github.com/picklepete/pyicloud/pull/128) to merge, which contains some necessary features. Until then you can install this using my fork as described in the setup instructions. 🚨
+
+##### 🚨 I'm waiting on a PR from [here](https://github.com/picklepete/pyicloud/pull/128) to merge, which contains some necessary features. Until then you can install this using my fork as described in the setup instructions. 🚨
 
 First things first, clone this repository to your server:
 
