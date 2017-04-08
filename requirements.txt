@@ -6,4 +6,3 @@ requests==2.13.0
 requests-oauthlib==0.8.0
 six==1.10.0
 pyicloud==0.9.1
-overrides==1.7
