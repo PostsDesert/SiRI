@@ -55,4 +55,4 @@ collection = 'Schoology'
 ## Set up a Crontab (optional)
 1. Log into your linux account
 2. Run `crontab -e`
-3. paste this snipped of code on a line and save the file `30 4 * * * python3 ~/SiRI/SiRI/SiRI.py`. This will run the program at 4:30pm every day.
+3. paste this snipped of code on a line and save the file `30 4 * * * python3 30 4 * * * python3 ~/SiRI/SiRI/SiRI.py >> ~/SiRI/SiRI/SiRI.log 2>&1y`. This will run the program at 4:30pm every day.
