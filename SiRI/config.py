@@ -6,6 +6,7 @@ icloud_password = ''
 # Schoology API Key
 schoology_app_key = ''
 schoology_app_secret = ''
+schoology_user_id = ''
 
 # Google link Shortener API Key
 goo_shorten_url_key = ''
